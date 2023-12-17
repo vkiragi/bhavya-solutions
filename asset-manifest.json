@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bhavya-solutions/static/css/main.2de2cae7.css",
+    "main.js": "/bhavya-solutions/static/js/main.e31bb02b.js",
+    "static/media/books.jpeg": "/bhavya-solutions/static/media/books.ac6c5420138196158fcf.jpeg",
+    "static/media/australian-refugee.jpg": "/bhavya-solutions/static/media/australian-refugee.285455f5aa32d89541e9.jpg",
+    "static/media/neonatal-nursing.jpg": "/bhavya-solutions/static/media/neonatal-nursing.05a4fc77a4bc9442f44e.jpg",
+    "static/media/chinese-art.jpg": "/bhavya-solutions/static/media/chinese-art.e08b5e60b8862a01ae01.jpg",
+    "index.html": "/bhavya-solutions/index.html",
+    "main.2de2cae7.css.map": "/bhavya-solutions/static/css/main.2de2cae7.css.map",
+    "main.e31bb02b.js.map": "/bhavya-solutions/static/js/main.e31bb02b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de2cae7.css",
+    "static/js/main.e31bb02b.js"
+  ]
+}
