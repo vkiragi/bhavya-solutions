@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bhavya-solutions/static/css/main.29037ecd.css",
-    "main.js": "/bhavya-solutions/static/js/main.0acea569.js",
+    "main.js": "/bhavya-solutions/static/js/main.4f36a653.js",
     "static/media/books.jpeg": "/bhavya-solutions/static/media/books.ac6c5420138196158fcf.jpeg",
     "static/media/australian-refugee.jpg": "/bhavya-solutions/static/media/australian-refugee.285455f5aa32d89541e9.jpg",
     "static/media/neonatal-nursing.jpg": "/bhavya-solutions/static/media/neonatal-nursing.05a4fc77a4bc9442f44e.jpg",
@@ -9,10 +9,10 @@
     "static/media/chinese-art.jpg": "/bhavya-solutions/static/media/chinese-art.e08b5e60b8862a01ae01.jpg",
     "index.html": "/bhavya-solutions/index.html",
     "main.29037ecd.css.map": "/bhavya-solutions/static/css/main.29037ecd.css.map",
-    "main.0acea569.js.map": "/bhavya-solutions/static/js/main.0acea569.js.map"
+    "main.4f36a653.js.map": "/bhavya-solutions/static/js/main.4f36a653.js.map"
   },
   "entrypoints": [
     "static/css/main.29037ecd.css",
-    "static/js/main.0acea569.js"
+    "static/js/main.4f36a653.js"
   ]
 }
