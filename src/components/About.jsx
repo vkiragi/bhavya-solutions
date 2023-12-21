@@ -24,11 +24,11 @@ const About = () => {
                 I was featured in the spotlight section of the October 2022
                 issue of ASI's monthly newsletter,{" "}
                 <a
-                  href="https://www.asindexing.org/newsletter/see-also-october-2022/"
+                  href="https://www.asindexing.org/newsletter/see-also-october-2022/#spotlight"
                   class="text-green-500 hover:text-green-400"
                   style={{ textDecoration: "none" }}
                 >
-                  see also
+                  See also
                 </a>{" "}
                 and{" "}
                 <a

@@ -1,1 +1,0 @@
-# Bhavya Solutions Indexing Services
