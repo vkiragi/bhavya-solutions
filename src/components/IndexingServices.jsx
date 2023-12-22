@@ -34,11 +34,12 @@ const IndexingServices = () => {
               I specialize in a wide variety of subjects. Areas of expertise
               include, but are not limited to:
               <ol className="list-decimal pl-12">
-                <li>teaching and education</li>
-                <li>psychology and social sciences</li>
-                <li>finance and money management</li>
-                <li>business</li>
-                <li>geopolitics</li>
+                <li>Teaching and Education</li>
+                <li>Psychology and Social Sciences</li>
+                <li>Finance and Money Management</li>
+                <li>Business</li>
+                <li>Geopolitics</li>
+                <li>Law</li>
               </ol>
             </li>
             <li>
