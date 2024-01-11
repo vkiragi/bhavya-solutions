@@ -5,27 +5,27 @@ const About = () => {
   return (
     <div
       id="about"
-      className="flex items-center justify-center min-h-screen bg-gray-100 p-10"
+      className="flex items-center justify-center min-h-screen bg-[#F5F5DC] p-4 sm:p-10"
     >
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8 text-center text-[#2F4F4F]">
+        <h1 className="text-3xl sm:text-4xl font-bold mb-8 text-center text-[#2F4F4F]">
           <span className="border-b-4 border-[#3CB371] pb-1">About</span>
         </h1>
-        <div className="flex flex-col md:flex-row bg-white shadow-lg rounded-lg overflow-hidden">
+        <div className="flex flex-col sm:flex-row bg-white shadow-lg rounded-lg overflow-hidden">
           {/* Profile Picture */}
-          <div className="w-full md:w-1/3 h-64 md:h-auto">
+          <div className="w-full sm:w-1/3">
             <figure>
               <img
                 src={selfie}
                 alt="Profile"
-                className="h-full w-full object-cover"
+                className="w-full h-auto object-cover"
               />
               <figcaption className="text-sm text-gray-600 mt-4 ml-2">
                 I was featured in the spotlight section of the October 2022
                 issue of ASI's monthly newsletter,{" "}
                 <a
                   href="https://www.asindexing.org/newsletter/see-also-october-2022/#spotlight"
-                  class="text-green-500 hover:text-green-400"
+                  className="text-green-500 hover:text-green-400"
                   style={{ textDecoration: "none" }}
                 >
                   See also
@@ -33,17 +33,17 @@ const About = () => {
                 and{" "}
                 <a
                   href="https://indexers.ca/wp-content/uploads/2023/09/Bulletin-2023-02-FINAL-v3.pdf"
-                  class="text-green-500 hover:text-green-400"
+                  className="text-green-500 hover:text-green-400"
                   style={{ textDecoration: "none" }}
                 >
-                  Summer 2023{" "}
+                  Summer 2023
                 </a>
                 edition of the ISC/SCI Bulletin.
               </figcaption>
             </figure>
           </div>
           {/* Content */}
-          <div className="w-full md:w-2/3 p-4 md:p-6 text-center md:text-left">
+          <div className="w-full sm:w-2/3 p-4 sm:p-6 text-center sm:text-left">
             {/* Education */}
             <div className="mb-6">
               <h2 className="text-2xl font-semibold text-gray-800">
