@@ -5,7 +5,6 @@ import profilePic from "/Users/varunkiragi/Documents/Workspace/bhavya-solutions/
 const Home = () => {
   return (
     <div id="home" className="w-full h-screen bg-[#F5F5DC]">
-      {/* Container */}
       <div className="max-w-[1000px] w-full mx-auto px-8 flex flex-col justify-center h-full sm:text-left text-center">
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-10 items-center sm:items-start">
           <div className="w-full sm:w-1/2">
