@@ -40,6 +40,7 @@ const IndexingServices = () => {
                 <li>Business</li>
                 <li>Geopolitics</li>
                 <li>Law</li>
+                <li>Cookbooks</li>
               </ol>
             </li>
             <li>

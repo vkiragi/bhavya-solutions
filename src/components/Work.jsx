@@ -1,8 +1,8 @@
 import React from "react";
-import ChineseArt from "../assets/chinese-art.jpg";
-import Nurse from "../assets/neonatal-nursing.jpg";
-import AustralianRefugeeArt from "../assets/australian-refugee.jpg";
-
+import MediationArt from "../assets/mediation.jpg";
+import FatalArt from "../assets/fatal.jpeg";
+import AustraliaArt from "../assets/australia.jpg";
+import BackcountryWar from "../assets/Backcountry-War.jpg";
 const Work = () => {
   return (
     <div id="work-samples" className="w-full md:h-screen bg-[#F5F5DC]">
@@ -11,61 +11,56 @@ const Work = () => {
           <p className="text-4xl font-bold inline border-b-4 text-[#2F4F4F] border-[#3CB371] pb-1">
             Work
           </p>
-          <p className="py-6">Please take a look at my recent work.</p>
+          <p className="py-6">Please take a look at my recent indexing work.</p>
         </div>
 
         {/* container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-          {/* Chinese Art Box */}
+          {/* Backcountry War Box */}
           <div
-            style={{ backgroundImage: `url(${ChineseArt})` }}
+            style={{ backgroundImage: `url(${BackcountryWar})` }}
             className="shadow-lg hover:shadow-xl group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500"
           >
             <a
-              href="https://www.bhavyasolutions.com/_files/ugd/249c31_e500f4012b7d408a8444f90acc1bab9d.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="Backcountry_War_Index.pdf"
+              download="Backcountry_War_Index.pdf"
               className="w-full h-full flex flex-col justify-center items-center text-white"
             >
-              <div className="font-bold rounded-md p-4 bg-black bg-opacity-50">
-                Contemporary Chinese Queer Art
-              </div>
-              {/* Additional content or styling if needed */}
+              {/* <div className="font-bold rounded-md p-4 bg-black bg-opacity-50">
+                Mediation as Negotiation of Meanings
+              </div> */}
             </a>
           </div>
 
-          {/* Nurse Box */}
+          {/* Fatal Denial Box */}
           <div
-            style={{ backgroundImage: `url(${Nurse})` }}
+            style={{ backgroundImage: `url(${FatalArt})` }}
             className="shadow-lg hover:shadow-xl group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500"
           >
             <a
-              href="https://www.bhavyasolutions.com/_files/ugd/249c31_49ab66491f8e414dbcb18a6fd3f03711.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="Fatal Denial_Index.pdf"
+              download="Fatal_Denial_Index.pdf"
               className="w-full h-full flex flex-col justify-center items-center text-white"
             >
-              <div className="font-bold rounded-md p-4 bg-black bg-opacity-50">
-                Neonatal Nursing
-              </div>
-              {/* Additional content or styling if needed */}
+              {/* <div className="font-bold rounded-md p-4 bg-black bg-opacity-50">
+                Fatal Denial
+              </div> */}
             </a>
           </div>
 
           {/* Australia Box */}
           <div
-            style={{ backgroundImage: `url(${AustralianRefugeeArt})` }}
+            style={{ backgroundImage: `url(${AustraliaArt})` }}
             className="shadow-lg hover:shadow-xl group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-500"
           >
             <a
-              href="https://www.bhavyasolutions.com/_files/ugd/249c31_f593ca53f338498e9e66f124a4b97fa4.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="Australia's Refugee Politics_Index.pdf"
+              download="Australia's_Refugee_Politics_Index.pdf"
               className="w-full h-full flex flex-col justify-center items-center text-white"
             >
-              <div className="font-bold rounded-md p-4 bg-black bg-opacity-50">
+              {/* <div className="font-bold rounded-md p-4 bg-black bg-opacity-50">
                 Australia's Refugee Politics
-              </div>
+              </div> */}
             </a>
           </div>
         </div>

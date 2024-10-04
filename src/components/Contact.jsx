@@ -9,7 +9,7 @@ const Contact = () => {
   };
 
   useEffect(() => {
-    const script = document.createElement('script');
+    const script = document.createElement("script");
     script.src = "https://platform.linkedin.com/badges/js/profile.js";
     script.async = true;
     script.defer = true;
@@ -37,10 +37,15 @@ const Contact = () => {
           <FaEnvelope className="ml-3 group-hover:text-white duration-150 text-3xl" />
         </button>
 
-        <a className="text-slate-600 group border-slate-600 border-2 rounded-lg px-6 py-3 my-2 flex items-center transition-colors duration-300 hover:bg-[#3CB371] hover:border-[#3CB371]" href={`https://www.linkedin.com/in/mamta-jha-7443911a/`} target="_blank" rel="noopener noreferrer">
+        <a
+          className="text-slate-600 group border-slate-600 border-2 rounded-lg px-6 py-3 my-2 flex items-center transition-colors duration-300 hover:bg-[#3CB371] hover:border-[#3CB371]"
+          href={`https://www.linkedin.com/in/mamta-jha-7443911a/`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Find me on LinkedIn
           <FaLinkedin className="ml-3 group-hover:text-white duration-150 text-3xl" />
-        </a>  
+        </a>
       </div>
     </div>
   );

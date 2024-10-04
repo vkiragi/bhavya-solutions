@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.54db79ec.css",
-    "main.js": "/static/js/main.8477f31d.js",
-    "static/media/books.jpeg": "/static/media/books.ac6c5420138196158fcf.jpeg",
-    "static/media/australian-refugee.jpg": "/static/media/australian-refugee.285455f5aa32d89541e9.jpg",
-    "static/media/neonatal-nursing.jpg": "/static/media/neonatal-nursing.05a4fc77a4bc9442f44e.jpg",
+    "main.css": "/static/css/main.f11ef6e8.css",
+    "main.js": "/static/js/main.774f61ba.js",
+    "static/media/bryn-mawr-pic.jpg": "/static/media/bryn-mawr-pic.00e124e4651dee0f01dd.jpg",
     "static/media/selfie.jpeg": "/static/media/selfie.fbfe85c62ee0ad00476e.jpeg",
-    "static/media/chinese-art.jpg": "/static/media/chinese-art.e08b5e60b8862a01ae01.jpg",
+    "static/media/mediation.jpg": "/static/media/mediation.da66b873887d5890b844.jpg",
+    "static/media/fatal.jpeg": "/static/media/fatal.c2c6109ea7a769d5715d.jpeg",
+    "static/media/australia.jpg": "/static/media/australia.8bda3a1c3c3f7030f60f.jpg",
     "index.html": "/index.html",
-    "main.54db79ec.css.map": "/static/css/main.54db79ec.css.map",
-    "main.8477f31d.js.map": "/static/js/main.8477f31d.js.map"
+    "main.f11ef6e8.css.map": "/static/css/main.f11ef6e8.css.map",
+    "main.774f61ba.js.map": "/static/js/main.774f61ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.54db79ec.css",
-    "static/js/main.8477f31d.js"
+    "static/css/main.f11ef6e8.css",
+    "static/js/main.774f61ba.js"
   ]
 }

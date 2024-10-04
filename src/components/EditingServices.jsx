@@ -20,7 +20,7 @@ const EditingServices = () => {
             </li>
             <li className="mb-2">
               Enhancements to the structure to ensure readers can easily follow
-              your message and ‘narrative’
+              your message and ‘narrative’.
             </li>
             <li className="mb-2">
               Checks to ensure clear, idiomatic and unambiguous use of English.
@@ -46,10 +46,6 @@ const EditingServices = () => {
               elements are used effectively and align with the main text.
             </li>
             <li className="mb-2">Fact-checking and copyright checks.</li>
-            <li className="mb-2">
-              My competitive rates are based on my extensive experience and
-              education, and are negotiable as needed.
-            </li>
             <li className="mb-2">
               Please contact me for rates, which are negotiable depending on the
               project:{" "}

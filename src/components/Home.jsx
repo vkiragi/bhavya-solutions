@@ -1,6 +1,6 @@
 import React from "react";
 import { FaEnvelope } from "react-icons/fa";
-import profilePic from "/Users/varunkiragi/Documents/Workspace/bhavya-solutions/src/assets/books.jpeg"; // Modify the path as needed
+import profilePic from "/Users/varunkiragi/Documents/Workspace/bhavya-solutions/src/assets/bryn-mawr-pic.jpg"; // Modify the path as needed
 
 const Home = () => {
   return (
@@ -31,11 +31,16 @@ const Home = () => {
             </div>
           </div>
           <div className="w-full sm:w-1/2 lg:w-3/4 xl:w-4/5">
-            <img
-              src={profilePic}
-              alt="Profile"
-              className="w-auto h-48 sm:h-full lg:h-auto lg:max-h-[600px] mx-auto rounded-lg self-center"
-            />
+            <figure className="flex flex-col items-center">
+              <img
+                src={profilePic}
+                alt="Profile"
+                className="w-auto h-48 sm:h-full lg:h-auto lg:max-h-[600px] mx-auto rounded-lg self-center"
+              />
+              <figcaption className="text-center mt-2 text-sm text-gray-600">
+                ASI Conference 2024 in Bryn Mawr
+              </figcaption>
+            </figure>
           </div>
         </div>
       </div>

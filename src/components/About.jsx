@@ -37,7 +37,7 @@ const About = () => {
                   style={{ textDecoration: "none" }}
                 >
                   Summer 2023
-                </a>
+                </a>{" "}
                 edition of the ISC/SCI Bulletin.
               </figcaption>
             </figure>
@@ -54,6 +54,10 @@ const About = () => {
                   <li>
                     Specialized certificate in copyediting from University of
                     California, San Diego.
+                  </li>
+                  <li>
+                    Digital Landscape for Editors course from University of
+                    California, San Diego
                   </li>
                   <li>
                     Indexing training course from the American Society of
